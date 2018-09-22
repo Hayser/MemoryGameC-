@@ -1,7 +1,7 @@
 /*	Nombre del archivo:				main.cpp
-*	Información de la versión:		Se creó en CodeBlocks 16.01
+*	InformaciÃ³n de la versiÃ³n:		Se creÃ³ en CodeBlocks 16.01
 *	Fecha:							Domingo, 25 de septiembre de 2016.
-*	Autores:					    Hayser Dávila Abarca, Boris Mendez Acuña
+*	Autor:					    Hayser DÃ¡vila Abarca 
 */
 #include "Control.h"
 
